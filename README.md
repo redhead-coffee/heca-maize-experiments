@@ -21,3 +21,7 @@ https://www.kaggle.com/datasets/yusufmurtaza01/tomato-leaf-disease
 | MobileNetV3 + CA | 92.34% |
 | MobileNetV3 + CBAM | 92.90% |
 | HECA | 95.96% |
+
+## Additional Evaluiation Logs and Note Book Link:
+Model Logs: https://www.kaggle.com/models/redheadcoffee/heca-attention-models
+Kaggle Notebook: https://www.kaggle.com/code/redheadcoffee/heca-accuracy-and-loss-and-roc-curves
